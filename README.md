@@ -13,7 +13,7 @@ Friendly & Safer GORM powered by Code Generation.
 ## Overview
 
 - Idiomatic & Reusable API from Dynamic Raw SQL
-- 100% Type-safe DAO API without `interface{}`
+- 100% Type-safe DAO API without - `interface{}`
 - Database To Struct follows GORM conventions
 - GORM under the hood, supports all features, plugins, DBMS that GORM supports
 - Support plugin SoftDeleteAt 
