@@ -3,7 +3,7 @@ module github.com/wangpeng8/gorm_gen
 go 1.18
 
 require (
-	golang.org/x/text v0.8.0
+	golang.org/x/text v0.9.0
 	golang.org/x/tools v0.7.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/datatypes v1.1.1
